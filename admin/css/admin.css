@@ -1,0 +1,21 @@
+body{
+    /* background:wheat; */
+    background-image:url('../img/mountains2.jpg');
+    background-size: cover;
+    
+}
+.card-header{
+    background-color:rgb(74, 74, 248);
+    
+    margin-bottom: 10px;
+}
+h2{
+    color: whitesmoke;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: whitesmoke;
+    padding-bottom: 50px;
+}
